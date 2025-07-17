@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ericzakariasson-uber-eats-mcp-server-badge.png)](https://mseep.ai/app/ericzakariasson-uber-eats-mcp-server)
+
 # Uber Eats MCP Server
 
 This is a POC of how you can build an MCP servers on top of Uber Eats
